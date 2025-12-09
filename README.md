@@ -59,7 +59,7 @@ A scalable reimbursement platform that automates the claim process with OCR-driv
 ---
 ## ⚙️ Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,django,fastapi,react,tailwind,pytorch,postgres,mongodb,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,django,fastapi,react,tailwind,pytorch,postgres,docker,git,linux" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="42" />
 </p>
 
