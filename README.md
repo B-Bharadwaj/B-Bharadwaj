@@ -1,9 +1,9 @@
-#  Hi, I'm Bharadwaj
+# 👋Hi, I'm Bharadwaj
 
-I’m a developer interested in **AI/ML, full-stack development, and building practical systems end-to-end**.  
-Most of my work focuses on combining **machine learning, NLP, and modern web frameworks** to solve real problems.
+I'm a software engineer focused on **AI/ML, NLP, and full-stack system development**.  
+I work on projects that combine **deep learning**, **automation workflows**, and **scalable backend architectures** to create practical and efficient solutions.
 
-I like building systems with clear architecture, clean code, and real-world usability.
+I value clean design, strong engineering principles, and end-to-end execution.
 
 ---
 
