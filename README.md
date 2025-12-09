@@ -1,52 +1,86 @@
-Hi, I'm Bharadwaj
+#  Hi, I'm Bharadwaj
 
-I’m a developer interested in AI/ML, full-stack development, and building practical systems end-to-end.
-Most of my work focuses on combining machine learning, NLP, and modern web frameworks to solve real problems.
+I’m a developer interested in **AI/ML, full-stack development, and building practical systems end-to-end**.  
+Most of my work focuses on combining **machine learning, NLP, and modern web frameworks** to solve real problems.
 
-I enjoy designing systems with clear architecture, clean code, and real-world usability.
+I like building systems with clear architecture, clean code, and real-world usability.
 
-### 🚀 Featured Projects
-🔹 SENN – Self-Evolving Neural Network
+---
 
-A genetic-algorithm–driven system that evolves CNN architectures automatically.
+## 🚀 Featured Projects
 
-CIFAR-10 classification
+### 🔹 SENN – Self-Evolving Neural Network  
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)]()  [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)]()  [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000000?logo=academia&logoColor=white)]()
 
-Mutation + selection-based architecture search
+A neural architecture search (NAS) system that automatically designs and evolves CNNs using genetic algorithms.
 
-Auto-pruning & performance tracking
+**Highlights:**  
+- Automated CNN generation with mutation + selection  
+- Built for CIFAR-10 image classification  
+- Architecture pruning & performance-based evolution  
+- Tracks model fitness across generations  
+- Produces lightweight, high-accuracy CNN candidates  
 
-Lightweight, high-accuracy models
+**Repo:** *(https://github.com/B-Bharadwaj/SENN)*
 
-🔹 Medical Report Simplifier (LLM-Based)
+---
 
-A domain-adaptive medical NLP system that rewrites complex clinical text into patient-friendly language.
+### 🔹 Medical Report Simplifier (LLM-Based)  
+[![NLP](https://img.shields.io/badge/NLP-4285F4?logo=google&logoColor=white)]()  [![Transformers](https://img.shields.io/badge/Transformers-FF9900?logo=huggingface&logoColor=white)]()  [![AI Safety](https://img.shields.io/badge/Medical%20AI%20Safety-8A2BE2)]()
 
-Built using Gemini / Llama-based models
+A controlled medical NLP pipeline that converts complex clinical text into accessible, patient-friendly language.
 
-Safe rewrite checks: negation detection, ontology matching
+**Highlights:**  
+- Uses Gemini / Llama-based models for domain-adaptive simplification  
+- Safety layers: negation detection, ontology cross-checking, terminology preservation  
+- End-to-end workflow: PDF → extraction → LLM rewrite → evaluation  
+- Readability and semantic similarity scoring  
+- Designed for clinical accuracy and trustworthy generation  
 
-PDF → text extraction pipeline
+**Repo:** *(https://github.com/B-Bharadwaj/Medical-Report-Simplifier)*
 
-Readability measurement + quality evaluation
+---
 
-🔹 Claim Reimbursement System (Full-Stack + OCR)
+### 🔹 Claim Reimbursement System (Full-Stack + OCR)  
+[![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)]()[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)]()  [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)]()  [![OCR](https://img.shields.io/badge/OCR-EasyOCR-yellow)]()
 
-End-to-end web application for employees to upload receipts and auto-extract details.
+A scalable reimbursement platform that automates the claim process with OCR-driven data extraction.
 
-Frontend: React + Tailwind
+**Highlights:**  
+- **Frontend:** React + Tailwind for clean, responsive UI  
+- **Backend:** Django + DRF with secure role-based APIs  
+- **OCR Microservice:** FastAPI + EasyOCR for receipt parsing  
+- Supports Employee, Manager, and Finance roles  
+- Converts receipt images → structured JSON → automated form population  
+- Built with modular microservices and enterprise-style workflows  
 
-Backend: Django + DRF
+**Repo:** *(https://github.com/B-Bharadwaj/Claim-Reimbursement-System)*
 
-OCR Microservice: FastAPI (EasyOCR)
+---
+## ⚙️ Tech Stack  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,django,fastapi,react,tailwind,pytorch,postgres,mongodb,docker,git,linux" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="42" />
+</p>
 
-Role-based access (Employee, Manager, Finance)
+---
+## 🔭 Currently Working On
+- SENN: Evolution-based CNN architecture search  
+- Full-stack OCR automation system (Django + React + FastAPI)   
+- Improving NLP workflows and evaluation methods  
 
-Receipt → JSON → Auto-filled form workflow
+---
 
-## 📊 GitHub Stats
+## 🌱 Currently Learning
+- AWS cloud fundamentals (EC2, S3, Lambda, IAM)
+- System design and scalable backend patterns  
+- Advanced deep learning optimization  
+- LLM evaluation, prompt engineering, and safety techniques  
+- Microservices and container-based deployments 
+---
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=B-Bharadwaj&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Bharadwaj&layout=compact&theme=tokyonight" />
+## 📬 Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/balaji-bharadwaj1603/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"></a>
+  <a href="bharadwaj1603@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"></a>
 </p>
