@@ -9,6 +9,21 @@ I value clean design, strong engineering principles, and end-to-end execution.
 
 ## 🚀 Featured Projects
 
+### 🔹 Claim Reimbursement System (Full-Stack + OCR)  
+[![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)]()[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)]()  [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)]()  [![OCR](https://img.shields.io/badge/OCR-EasyOCR-yellow)]()
+
+A scalable reimbursement platform that automates the claim process with OCR-driven data extraction.
+
+**Highlights:**  
+- **Frontend:** React + Tailwind for clean, responsive UI  
+- **Backend:** Django + DRF with secure role-based APIs  
+- **OCR Microservice:** FastAPI + EasyOCR for receipt parsing  
+- Supports Employee, Manager, and Finance roles  
+- Converts receipt images → structured JSON → automated form population  
+- Built with modular microservices and enterprise-style workflows  
+
+**Repo:** *(https://github.com/B-Bharadwaj/Claim-Reimbursement-System)*
+
 ### 🔹 SENN – Self-Evolving Neural Network  
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)]()  [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)]()  [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000000?logo=academia&logoColor=white)]()
 
@@ -38,23 +53,6 @@ A controlled medical NLP pipeline that converts complex clinical text into acces
 - Designed for clinical accuracy and trustworthy generation  
 
 **Repo:** *(https://github.com/B-Bharadwaj/Medical-Report-Simplifier)*
-
----
-
-### 🔹 Claim Reimbursement System (Full-Stack + OCR)  
-[![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)]()[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)]()  [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)]()  [![OCR](https://img.shields.io/badge/OCR-EasyOCR-yellow)]()
-
-A scalable reimbursement platform that automates the claim process with OCR-driven data extraction.
-
-**Highlights:**  
-- **Frontend:** React + Tailwind for clean, responsive UI  
-- **Backend:** Django + DRF with secure role-based APIs  
-- **OCR Microservice:** FastAPI + EasyOCR for receipt parsing  
-- Supports Employee, Manager, and Finance roles  
-- Converts receipt images → structured JSON → automated form population  
-- Built with modular microservices and enterprise-style workflows  
-
-**Repo:** *(https://github.com/B-Bharadwaj/Claim-Reimbursement-System)*
 
 ---
 ## ⚙️ Tech Stack  
