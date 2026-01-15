@@ -24,6 +24,8 @@ A scalable reimbursement platform that automates the claim process with OCR-driv
 
 **Repo:** *(https://github.com/B-Bharadwaj/Claim-Reimbursement-System)*
 
+---
+
 ### 🔹 SENN – Self-Evolving Neural Network  
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)]()  [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)]()  [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000000?logo=academia&logoColor=white)]()
 
