@@ -21,10 +21,10 @@ A production-grade AI Business Intelligence platform combining multi-PDF retriev
 - **Frontend:** React + Plotly for interactive data visualisation
 - Built-in LLM evaluation framework to measure and monitor output quality
 - Designed for production — modular, auditable, and scalable
-**Repo:** *(https://github.com/B-Bharadwaj/RAG-Analytics-Platform)*
+**Repo:** *(https://github.com/B-Bharadwaj/RAG)*
  
 ---
-### 🔹 Claim Reimbursement System (Full-Stack + OCR)  
+### 🔹Claim Reimbursement System (Full-Stack + OCR)  
 [![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)]()[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)]()  [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)]()  [![OCR](https://img.shields.io/badge/OCR-EasyOCR-yellow)]()
 
 A scalable reimbursement platform that automates the claim process with OCR-driven data extraction.
