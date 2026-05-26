@@ -9,6 +9,21 @@ I value clean design, strong engineering principles, and end-to-end execution.
 
 ## 🚀 Featured Projects
 
+### 🔹 RAG Analytics Platform (GenAI + Full-Stack)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)]()  [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)]()  [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)]()  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)]()  [![RAG](https://img.shields.io/badge/RAG-FAISS%20+%20BM25-orange)]()
+ 
+A production-grade AI Business Intelligence platform combining multi-PDF retrieval and natural language querying over structured databases.
+ 
+**Highlights:**
+- **Retrieval:** Hybrid FAISS + BM25 pipeline for accurate multi-document question answering
+- **Text-to-SQL:** PostgreSQL pipeline enabling natural language queries over structured data
+- **Backend:** FastAPI with SQL query logging for full auditability
+- **Frontend:** React + Plotly for interactive data visualisation
+- Built-in LLM evaluation framework to measure and monitor output quality
+- Designed for production — modular, auditable, and scalable
+**Repo:** *(https://github.com/B-Bharadwaj/RAG-Analytics-Platform)*
+ 
+---
 ### 🔹 Claim Reimbursement System (Full-Stack + OCR)  
 [![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)]()[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)]()  [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)]()  [![OCR](https://img.shields.io/badge/OCR-EasyOCR-yellow)]()
 
@@ -23,22 +38,6 @@ A scalable reimbursement platform that automates the claim process with OCR-driv
 - Built with modular microservices and enterprise-style workflows  
 
 **Repo:** *(https://github.com/B-Bharadwaj/Claim-Reimbursement-System)*
-
----
-
-### 🔹 SENN – Self-Evolving Neural Network  
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)]()  [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)]()  [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000000?logo=academia&logoColor=white)]()
-
-A neural architecture search (NAS) system that automatically designs and evolves CNNs using genetic algorithms.
-
-**Highlights:**  
-- Automated CNN generation with mutation + selection  
-- Built for CIFAR-10 image classification  
-- Architecture pruning & performance-based evolution  
-- Tracks model fitness across generations  
-- Produces lightweight, high-accuracy CNN candidates  
-
-**Repo:** *(https://github.com/B-Bharadwaj/SENN)*
 
 ---
 
