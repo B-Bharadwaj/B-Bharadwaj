@@ -23,15 +23,6 @@ Software engineer focused on generative AI and full-stack systems. I build end-t
 
 ---
 
-## 💼 Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| GenAI Intern | Happiest Minds Technologies, Bengaluru | Mar 2026 – May 2026 |
-| Software Developer Intern | Innoventes, Bengaluru | Jul 2025 – Mar 2026 |
-
----
-
 ## 🚀 Featured Projects
 
 ### 🔹 RAG Analytics Platform — *GenAI · Full-Stack · Production-grade*
@@ -66,21 +57,6 @@ End-to-end reimbursement platform with a 5-stage claim lifecycle, JWT auth, and 
 BiLSTM + Luong Attention and CNN-BiLSTM classifiers on TAPE protein embeddings for 3-class neurodegenerative disease detection — 82% accuracy. Includes an auxiliary misfolding risk regression head and attention heatmaps for sequence-level interpretability on Homo sapiens `.pdb` data.
 
 **→ [GitHub Repo](https://github.com/B-Bharadwaj)**
-
----
-
-## 🎓 Education
-
-**B.Tech in Computer Science and Engineering** *(Elective: Machine Learning)*
-Dayananda Sagar University, Bengaluru — 2022–2026
-
----
-
-## 📜 Certifications
-
-- IBM Deep Learning Specialization — Coursera
-- Django for Everybody — Coursera
-- AWS Cloud Practitioner Essentials — Coursera
 
 ---
 
