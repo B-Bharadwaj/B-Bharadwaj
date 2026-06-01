@@ -42,6 +42,7 @@ AI business intelligence platform combining hybrid FAISS + BM25 multi-PDF retrie
 [![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)]()
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)]()
 [![OCR](https://img.shields.io/badge/OCR-EasyOCR-yellow)]()
 
 End-to-end reimbursement platform with a 5-stage claim lifecycle, JWT auth, and role-based dashboards for Employee, Manager, and Finance users. Integrated FastAPI + Tesseract OCR microservice to auto-extract vendor, date, and amount from receipts into structured JSON.
