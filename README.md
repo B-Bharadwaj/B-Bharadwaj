@@ -69,27 +69,6 @@ BiLSTM + Luong Attention and CNN-BiLSTM classifiers on TAPE protein embeddings f
 
 ---
 
-### 🔹 Self-Evolving Neural Network (SENN) — *Neural Architecture Search · Evolutionary Algorithms*
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)]()
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)]()
-
-Evolutionary NAS framework using mutation-driven Architecture DNA and NSGA-II Pareto selection to auto-discover CNN architectures on CIFAR-10. Structured L1-norm pruning, multi-objective optimization, and a live Streamlit dashboard for evolution tracking.
-
-**→ [GitHub Repo](https://github.com/B-Bharadwaj)**
-
----
-
-### 🔹 Medical Report Simplifier — *LLM · Healthcare NLP · AI Safety*
-[![NLP](https://img.shields.io/badge/NLP-4285F4?logo=google&logoColor=white)]()
-[![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-8A2BE2)]()
-[![AI Safety](https://img.shields.io/badge/Medical%20AI%20Safety-0F6E56)]()
-
-PDF-to-plain-English pipeline using Gemini 2.5 Flash. Reduces Flesch-Kincaid readability grade from 14–16 to 7–9 with 100% negation safety, semantic similarity scoring, and an auto-rewrite module that corrects unsafe simplifications before output.
-
-**→ [GitHub Repo](https://github.com/B-Bharadwaj/Medical-Report-Simplifier)**
-
----
-
 ## 🎓 Education
 
 **B.Tech in Computer Science and Engineering** *(Elective: Machine Learning)*
