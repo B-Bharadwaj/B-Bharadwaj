@@ -65,5 +65,4 @@ BiLSTM + Luong Attention and CNN-BiLSTM classifiers on TAPE protein embeddings f
 <p>
   <a href="https://www.linkedin.com/in/balaji-bharadwaj1603/"><img src="https://skillicons.dev/icons?i=linkedin" width="36"></a>&nbsp;&nbsp;
   <a href="mailto:bharadwaj1603@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="36"></a>&nbsp;&nbsp;
-  <a href="https://github.com/B-Bharadwaj"><img src="https://skillicons.dev/icons?i=github" width="36"></a>
 </p>
