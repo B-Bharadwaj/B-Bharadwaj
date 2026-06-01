@@ -56,7 +56,7 @@ End-to-end reimbursement platform with a 5-stage claim lifecycle, JWT auth, and 
 
 BiLSTM + Luong Attention and CNN-BiLSTM classifiers on TAPE protein embeddings for 3-class neurodegenerative disease detection — 82% accuracy. Includes an auxiliary misfolding risk regression head and attention heatmaps for sequence-level interpretability on Homo sapiens `.pdb` data.
 
-**→ [GitHub Repo](https://github.com/B-Bharadwaj)**
+**→ [GitHub Repo](https://github.com/B-Bharadwaj/alzheimer-parkinson-detection)**
 
 ---
 
